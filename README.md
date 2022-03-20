@@ -40,6 +40,25 @@ I am a developer, new to open source and willing to learn
 ```
 </details>
 
+
+  <details>
+  <summary><b>🏅&nbsp;&nbsp;My&nbsp;Achievements</b></summary>
+
+  *   <details>
+      <summary><b>Kaggle</b></summary>
+      <p align="left">
+          [My Page](https://www.kaggle.com/jackbright)
+
+      </p>
+
+      </details>
+  </details>
+  
+  
+
+</details>
+
+
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
